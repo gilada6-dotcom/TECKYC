@@ -1,0 +1,5 @@
+{
+  "name": "Tectona Crypto",
+  "description": "A professional cryptocurrency purchase and onboarding platform with a multi-step verification process.",
+  "requestFramePermissions": ["camera"]
+}
